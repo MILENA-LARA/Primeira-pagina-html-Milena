@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Bem-vindo à Minha Primeira Página HTML!</h1>
-    <p>Esta é uma página simples criada para aprender HTML e hospedagem no GitHub Pages.</p>
+    <p>Esta é uma página simples criada para aprender HTML e hospedagem no GitHub criado por Milena Lara.</p>
 </body>
 </html>
